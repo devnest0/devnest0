@@ -1,7 +1,7 @@
 ~ whoami
 > someone who somersaults to codes
 
-~ explain tayfunerbilen
+~ explain umutdogru
 > part-time high school student, writer, sometimes stockbroker
 
 ~ links
